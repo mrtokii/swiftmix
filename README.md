@@ -1,3 +1,5 @@
+[![Tests](https://github.com/mrtokii/swiftmix/actions/workflows/swift.yml/badge.svg)](https://github.com/mrtokii/swiftmix/actions/workflows/swift.yml)
+
 ![Swiftmix logo](swiftmix.png)
 
 Swiftmix is a tool aimed to make better use of Swift scripts. Right now there is no decent way to import source files in scripts without using SPM. Swiftmix can solve this problem while requiring little to no modifications to existing scripts.
