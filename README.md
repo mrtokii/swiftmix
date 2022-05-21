@@ -22,8 +22,6 @@ Swiftmix acts as a wrapper for `swift` interpreter. It scans for `import` direct
 Consider having a file `say.swift`:
 
 ```swift
-#!/usr/bin/env swiftmix
-
 func say(_ str: String) {
     print("Say: \(str)")
 }
